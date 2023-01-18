@@ -1,0 +1,165 @@
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Airport_database.db
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Airport.exe
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Airport.deps.json
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Airport.runtimeconfig.json
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Airport.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Airport.pdb
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Azure.Core.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Azure.Identity.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\EntityFramework.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\System.Data.SQLite.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\System.CodeDom.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\System.Data.SQLite.EF6.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\System.Memory.Data.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\obj\Debug\net6.0\Airport.csproj.AssemblyReference.cache
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\obj\Debug\net6.0\Airport.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\obj\Debug\net6.0\Airport.AssemblyInfoInputs.cache
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\obj\Debug\net6.0\Airport.AssemblyInfo.cs
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\obj\Debug\net6.0\Airport.csproj.CoreCompileInputs.cache
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\obj\Debug\net6.0\Airport.csproj.CopyComplete
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\obj\Debug\net6.0\Airport.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\obj\Debug\net6.0\refint\Airport.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\obj\Debug\net6.0\Airport.pdb
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\obj\Debug\net6.0\Airport.genruntimeconfig.cache
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\obj\Debug\net6.0\ref\Airport.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\System.Data.SQLite.EF6.Migrations.dll
+D:\KPI\Проєктування інформаційних систем\Airport\Airport\bin\Debug\net6.0\System.Data.SQLite.Linq.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Airport.exe
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Airport.deps.json
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Airport.runtimeconfig.json
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Airport.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Airport.pdb
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Humanizer.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\obj\Debug\net6.0\Airport.csproj.AssemblyReference.cache
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\obj\Debug\net6.0\Airport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\obj\Debug\net6.0\Airport.AssemblyInfoInputs.cache
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\obj\Debug\net6.0\Airport.AssemblyInfo.cs
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\obj\Debug\net6.0\Airport.csproj.CoreCompileInputs.cache
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\obj\Debug\net6.0\Airport.csproj.CopyComplete
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\obj\Debug\net6.0\Airport.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\obj\Debug\net6.0\refint\Airport.dll
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\obj\Debug\net6.0\Airport.pdb
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\obj\Debug\net6.0\Airport.genruntimeconfig.cache
+C:\Users\maxto\Desktop\Лабы\Стата\AirportEF\Airport\obj\Debug\net6.0\ref\Airport.dll
