@@ -81,26 +81,27 @@ namespace Airport
             modelBuilder.Entity<Worker>().HasKey(i => new { i.WorkerId, i.Surname });
 
             modelBuilder.Entity<Passenger>().HasData(
-                new Passenger { PassengerId = 1, Age = 19, Name = "Passenger1", Surname = "Surname1" },
+                new Passenger { PassengerId = 1, Age = 20, Name = "Passenger1", Surname = "Surname1" },
                 new Passenger { PassengerId = 2, Age = 20, Name = "Passenger2", Surname = "Surname2" },
-                new Passenger { PassengerId = 3, Age = 21, Name = "Passenger3", Surname = "Surname3" }
+                new Passenger { PassengerId = 3, Age = 21, Name = "Passenger3", Surname = "Surname3" },
+                new Passenger { PassengerId = 4, Age = 25, Name = "Passenger4", Surname = "Surname4" },
+                new Passenger { PassengerId = 5, Age = 30, Name = "Passenger5", Surname = "Surname5" }
 
                 );
           
-
-
         }
-
-
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             var connect = new ConfigurationBuilder()
+
                               .SetBasePath(Directory.GetCurrentDirectory())
                               .AddJsonFile("appsettings.json").Build()
                               .GetConnectionString("DefaultConnection");
 
-            optionsBuilder.UseSqlServer(connect!);
+           // optionsBuilder.UseSqlServer(connect!);
+
+            optionsBuilder.UseLazyLoadingProxies().UseSqlServer(connect!);
         }
 
 

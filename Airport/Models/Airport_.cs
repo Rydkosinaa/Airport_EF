@@ -24,6 +24,7 @@ namespace Airport.Models
         public List<Route> Route1 { get; set; } = new();
         public List<Route> Route2 { get; set; } = new();
 
+        public virtual List<Worker> Workers { get; set; } = new();
 
     }
 }
