@@ -24,7 +24,7 @@ async Task Function(int j)
 {
     using (AirportContext context = new(builder))
     {
-        for (int i = 0; i < j+33; i++)
+        for (int i = j; i < j+33; i++)
         {
             var airline = new Airline { AirlineName = "Airline " + i, Plane_quont = i, Route_quont = i };
             context.Airlines.Add(airline);
