@@ -30,8 +30,11 @@ namespace Airport
 
             Airline airline1 = new Airline() { AirlineName = "Airline1", Plane_quont = 4, Route_quont = 4 };
             Airline airline2 = new Airline() { AirlineName = "Airline2", Plane_quont = 5, Route_quont = 8 };
-            Airline airline4 = new Airline() { AirlineName = "Airline3", Plane_quont = 10, Route_quont = 2 };
-            context.Airlines.AddRange(airline1, airline2);
+            Airline airline3 = new Airline() { AirlineName = "Airline3", Plane_quont = 10, Route_quont = 2 };
+            Airline airline4 = new Airline() { AirlineName = "Airline4", Plane_quont = 4, Route_quont = 4 };
+            Airline airline5 = new Airline() { AirlineName = "Airline5", Plane_quont = 5, Route_quont = 8 };
+            Airline airline6 = new Airline() { AirlineName = "Airline6", Plane_quont = 10, Route_quont = 2 };
+            context.Airlines.AddRange(airline1, airline2, airline3, airline4, airline5, airline6);
 
             Route route1 = new Route() { Distance = 500, Airport_ID_1 = 1, Airport_ID_2 = 2, Airline_name = "Airline1" };
             Route route2 = new Route() { Distance = 1000, Airport_ID_1 = 2, Airport_ID_2 = 3, Airline_name = "Airline2" };
@@ -39,15 +42,20 @@ namespace Airport
             Route route4 = new Route() { Distance = 5745, Airport_ID_1 = 4, Airport_ID_2 = 2, Airline_name = "Airline3" };
             context.Routes.AddRange(route1, route2, route3, route4);
 
-            Flight flight1 = new Flight() { Plane_Id = 1, Route_Id = 2, Gate_Number = 2, Pasengers_Quont = 40 };
-            Flight flight2 = new Flight() { Plane_Id = 2, Route_Id = 4, Gate_Number = 1, Pasengers_Quont = 70 };
-            context.Flights.AddRange(flight1, flight2);
+            Flight flight1 = new Flight() { Plane_Id = 1, Route_Id = 2, First = new DateTime(2022, 12, 25), Second = new DateTime(2022, 12, 26), Gate_Number = 2, Pasengers_Quont = 40 };
+            Flight flight2 = new Flight() { Plane_Id = 2, Route_Id = 4, First = new DateTime(2022, 12, 26), Second = new DateTime(2022, 12, 27), Gate_Number = 1, Pasengers_Quont = 70 };
+            Flight flight3 = new Flight() { Plane_Id = 2, Route_Id = 2, First = new DateTime(2022, 12, 30), Second = new DateTime(2022, 12, 31), Gate_Number = 2, Pasengers_Quont = 40 };
+            Flight flight4 = new Flight() { Plane_Id = 1, Route_Id = 3, First = new DateTime(2022, 12, 20), Second = new DateTime(2022, 12, 21), Gate_Number = 1, Pasengers_Quont = 70 };
+            Flight flight5 = new Flight() { Plane_Id = 1, Route_Id = 2, First = new DateTime(2022, 12, 19), Second = new DateTime(2022, 12, 20), Gate_Number = 2, Pasengers_Quont = 40 };
+            Flight flight6 = new Flight() { Plane_Id = 2, Route_Id = 4, First = new DateTime(2022, 12, 28), Second = new DateTime(2022, 12, 29), Gate_Number = 1, Pasengers_Quont = 70 };
 
-            Plane plane1 = new Plane() { PlaneId = 1, Airline_Name = "Airline1",Flight_Id= 1, Max_Plane_Quont= 100,Pilote_Quont= 2, Flight_Attendant_Quont=3,Carrying_Capacity=500,Fuel_Consumption=200 };
+            context.Flights.AddRange(flight1, flight2, flight3, flight4, flight5, flight6);
+
+            Plane plane1 = new Plane() { PlaneId = 1, Airline_Name = "Airline1", Flight_Id = 1, Max_Plane_Quont = 100, Pilote_Quont = 2, Flight_Attendant_Quont = 3, Carrying_Capacity = 500, Fuel_Consumption = 200 };
             Plane plane2 = new Plane() { PlaneId = 2, Airline_Name = "Airline2", Flight_Id = 2, Max_Plane_Quont = 110, Pilote_Quont = 2, Flight_Attendant_Quont = 4, Carrying_Capacity = 540, Fuel_Consumption = 220 };
             context.Planes.AddRange(plane1, plane2);
 
-            Worker worker1 = new Worker() { WorkerId= 1, AirportId= 1, Salary= 200, Position="Position1"};
+            Worker worker1 = new Worker() { WorkerId = 1, AirportId = 1, Salary = 200, Position = "Position1" };
             Worker worker2 = new Worker() { WorkerId = 2, AirportId = 1, Salary = 202, Position = "Position2" };
             Worker worker3 = new Worker() { WorkerId = 3, AirportId = 2, Salary = 203, Position = "Position3" };
             Worker worker4 = new Worker() { WorkerId = 4, AirportId = 2, Salary = 234, Position = "Position4" };
@@ -101,7 +109,7 @@ namespace Airport
                     context.Passengers.Where(p => p.PassengerId == ticket.Passenger_Doc_Id).Load();
                     Console.WriteLine("[0] ", ticket.Passenger.Name);
                 }
-              
+
             }
             //Lazy
             using (AirportContext context = new AirportContext(commands))
@@ -156,12 +164,12 @@ namespace Airport
                 //join
 
                 var people = context.Workers.Join(context.Airport_s, w => w.WorkerId, a => a.Airport_Id, (w, a) => new
-                    {
-                        Name = w.Name,
-                        Surname= w.Surname,
-                            Airport = a.Name,
-                        Position=w.Position
-                     }) ;
+                {
+                    Name = w.Name,
+                    Surname = w.Surname,
+                    Airport = a.Name,
+                    Position = w.Position
+                });
                 foreach (var p in people)
                     Console.WriteLine($"{p.Name} {p.Surname} ({p.Airport}) - {p.Position}");
 
@@ -185,7 +193,7 @@ namespace Airport
 
 
             }
-            
+
 
         }
 
@@ -254,18 +262,39 @@ namespace Airport
 
 
 
-         /*
-         
-             CREATE PROCEDURE [dbo].[GetWorkerByAirport]
-                    @id int 
-                AS
-             SELECT * FROM Worker 
-                   WHERE AirportId=(SELECT Id FROM Airports WHERE Id=@id)
+            /*
 
-         */
+                CREATE PROCEDURE [dbo].[GetWorkerByAirport]
+                       @id int 
+                   AS
+                SELECT * FROM Worker 
+                      WHERE AirportId=(SELECT Id FROM Airports WHERE Id=@id)
 
+            */
+
+        }
+        //Захист 3 лаб
+        // Найти топ 3 авіакомпанії які перевезли найбільшу кількість пасажирів впродовж новорічних свят
+
+        public static void TopAirlines(DbContextOptions commands)
+        {
+
+            using (AirportContext context = new AirportContext(commands))
+            {
+                var topAirlines = context.Flights
+                    .Where(f => f.First.Date >= new DateTime(2022, 12, 25) && f.First.Date <= new DateTime(2023, 1, 10))
+                    .GroupBy(f => f.Plane.Airline_Name)
+                    .Select(g => new { Airline = g.Key, TotalPassengers = g
+                    .Sum(f => f.Pasengers_Quont) })
+                    .OrderByDescending(a => a.TotalPassengers)
+                    .Take(3);
+                foreach (var top in topAirlines)
+                    Console.WriteLine($"{top.Airline} ");
+            }
         }
 
 
-    }
+
+
+    } 
 }
